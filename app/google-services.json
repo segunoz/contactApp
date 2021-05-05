@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "773208776404",
+    "firebase_url": "https://week-6-task-segun-wilson-default-rtdb.firebaseio.com",
+    "project_id": "week-6-task-segun-wilson",
+    "storage_bucket": "week-6-task-segun-wilson.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773208776404:android:c2bc8cb56e2f8038776541",
+        "android_client_info": {
+          "package_name": "com.decagon.android.sq007"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773208776404-l89jegek41fis4uqfk4ls21e1pvekd66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.decagon.android.sq007",
+            "certificate_hash": "abd1694e8e6529aac93fe1b9d62e6d5297f06d91"
+          }
+        },
+        {
+          "client_id": "773208776404-56pohmkm0t75icttj5ko1jmaee8md2fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABlpxburk1-w7BWK90vuvzy9zQLlk_Qag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773208776404-56pohmkm0t75icttj5ko1jmaee8md2fe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

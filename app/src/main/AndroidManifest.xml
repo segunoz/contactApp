@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.decagon.android.sq007">
 
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -9,7 +11,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.DecagonAndroid007">
-        <activity android:name="com.decagon.android.sq007.MainActivity">
+        <activity android:name=".ProfileDisplay"></activity>
+        <activity android:name=".PhoneContacts" />
+        <activity android:name=".ContactsActivity" />
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
